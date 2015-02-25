@@ -1,0 +1,64 @@
+body div#farst {
+    border-width:5px;
+    border-style:dotted solid double dashed;
+    border-top-color: #FFFF16;
+    border-right-color: #008000;
+    border-bottom-color: #4343FF;
+    border-left-color: #FF0000;
+    padding: 10px;
+    width: 440px;
+    height: 180px;
+
+
+}
+
+header {
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 10px 10px 7px #DADADA;
+    padding: 10px;
+}
+
+p {
+    font-size: 20px;
+    text-shadow: 7px 7px 7px #DADADA;
+    margin-left: 30px;
+
+}
+
+button{
+    background-color: #D8921A;
+    border: outset #D8921A;
+    margin-left: 35px;
+    color: #000000;
+}
+
+body div div#second {
+    padding: 10px;
+    border-width: 2px;
+    border: dashed #FF0000;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+body div div#cool {
+    background-color: #A8AAAA;
+    font-size: 16px;
+    color: #ffffff;
+    vertical-align: middle;
+    text-align: center;
+    border-width: 2px;
+    border: double #ffffff;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    width: 100px;
+    height: 50px;
+    margin-left: 410px;
+    margin-top: -160px;
+
+
+}
