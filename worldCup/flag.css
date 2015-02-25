@@ -1,0 +1,104 @@
+#wrapper{
+    width: 900px;
+    height: 300px;
+    background-color: #00ff00;
+}
+
+
+table{
+    width: 95%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+table thead.yellou{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+
+
+
+td{
+    border: 1px solid black;
+}
+
+
+
+img{
+    width: 20px;
+    height: 20px;
+    padding: 1px;
+    margin: 1px;
+}
+
+td select.selected {
+    color: #ff0000;
+}
+td select.unselected{
+    color: #00ff00;
+}
+
+button:enabled{
+    background-color: #00ff00;
+}
+
+button:disabled{
+    background-color: #ff0000;
+}
+
+
+
+.button {
+    width: 45px;
+    height: 45px;
+    border-radius: 45px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+
+}
+table thead.yellou{
+    font-weight: bold;
+    font-size: 22px;
+    background-color: yellow;
+}
+
+tr:nth-child(even){
+     background-color: grey;
+ }
+
+
+.groups{
+        text-align: center;
+}
+
+table tr td.team{
+    text-align: right;
+}
+
+table tr.white{
+    background-color: #ffffff;
+}
+
+
+table tr td.countrys{
+    text-align: right;
+}
+
+table tr td.result{
+    text-align: center;
+}
+
+#Place{
+    text-align: center;
+}
+
+table tr td span{
+    font-size: 20px;
+}

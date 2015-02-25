@@ -1,0 +1,26 @@
+div {
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+
+#farst{
+    font-size: medium;
+    font-style: stronger;
+    background-color: #ffee04;
+}
+
+table {
+	border-radius;20px
+
+}
+#rows:nth-child(odd){
+    background-color: grey;
+}
+
+input{
+    border-radius: 100%;
+}
+
+
+
